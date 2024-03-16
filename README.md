@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://ignaciodiaz.ar)
+- Personal website [link](https://diazignacio.ar)
 
 </br></br>
 
