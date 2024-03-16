@@ -21,20 +21,22 @@ Here are some ideas to get you started:
 
 </br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
+
+**About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<(br>
+</br>
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://ignaciodiaz.ar)
 
-<br><br>
+</br></br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></br></br>
 
 
 
@@ -53,7 +55,7 @@ Here are some ideas to get you started:
 
 ## Connect with me ☕
 
-</>
+</br>
 
 [![@diazignacio](https://img.icons8.com/fluency/48/000000/linkedin.png "@diazignacio")](https://www.linkedin.com/in/diazignacio/) [![@DiazIgnacioDev](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@DiazIgnacioDev")](https://twitter.com/diazignaciodev)
 
