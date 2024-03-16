@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<h1 align="center"><b>Hi , I'm Ignacio Diaz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align=""><b>Hi , I'm Ignacio Diaz</b><img src="https://github.com/informaticadiaz/informaticadiaz/blob/main/templete/OIG2.jpeg" width="150"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;Self-taught+Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
