@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 </br>
 
-[![@electricoquilmes](https://img.icons8.com/fluency/48/000000/instagram-new.png "@electricoquilmes")](https://www.instagram.com/electricoquilmes/) [![@diazignacio](https://img.icons8.com/fluency/48/000000/linkedin.png "@diazignacio")](https://www.linkedin.com/in/diazignacio/) [![@DiazIgnacioDev](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@DiazIgnacioDev")](https://twitter.com/diazignaciodev)
+[![@diazignacio](https://img.icons8.com/fluency/48/000000/linkedin.png "@diazignacio")](https://www.linkedin.com/in/diazignacio/) [![@DiazIgnacioDev](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@DiazIgnacioDev")](https://twitter.com/diazignaciodev)
 
 </br>
